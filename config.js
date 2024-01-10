@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94767939688', 'Dinuwa Official²⁰²³', true],
-  ['94767939688', 'Dinuwa Official²⁰²³', true], 
+  ['94767939688', 'NUECSTECH24 ', true],
+  ['94767939688', 'TECH24 official', true], 
   [''] 
 ] //Number of owners
 
@@ -51,11 +51,11 @@ global.botname = 'NUECSTECH24 '
 global.premium = 'true'
 global.packname = ' TECH24  Created By NUECSTECH24 ' 
 global.author = '💝 TECH24 ' 
-global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.igfg = 'www.youtube.com/@nuecstech2478' 
+global.dygp = 'https://whatsapp.com/channel/0029VaEvarV2f3ES65ngOJ3Q'
+global.fgsc = 'https://github.com/Nuecstech' 
+global.fgyt = 'https://whatsapp.com/channel/0029VaEvarV2f3ES65ngOJ3Q'
+global.fgpyp = 'https://t.me/+cKvVjqUUGPA1MWFk'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
